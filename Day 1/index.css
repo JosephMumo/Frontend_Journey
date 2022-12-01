@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#main {
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 38%;
+    margin-top: 10%;
+    line-height: 100px;
+    border-radius: 12px;
+}
+#el-counted {
+    font-size: xx-large;
+}
+button {
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+#increment-btn {
+    background-color: maroon;
+}
+#reset-btn {
+    background-color: green;
+}
