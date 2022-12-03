@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#box {
+    height: 38rem;
+    width: 30rem;
+    position: relative;
+    border: 2px solid lawngreen;
+    border-radius: 12px;
+    margin-left: 35rem;
+    margin-top: 5rem;
+    text-align: center;
+}
+button {
+    height: 50px;
+    width: 250px;
+    border: 2px solid lawngreen;
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+}
+#purchase-el {
+    background-color: white;
+}
+#error {
+    color: red;
+}
