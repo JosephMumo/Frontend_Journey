@@ -1,0 +1,26 @@
+h1 {
+    color: goldenrod;
+    font-family: 'Trebuchet MS';
+}
+#box {
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    left: 35%;
+    text-align: center;
+    background-image: url(table.jpg);
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+#message-el {
+    font-style: italic;
+}
+button {
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 8px;
+    background-color: goldenrod;
+    color: #016f32;
+}
