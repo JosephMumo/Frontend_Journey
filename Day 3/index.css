@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+}
+button {
+    height: 40px;
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: black; 
+    background-color: white;
+}
+span {
+    border-bottom: 1px solid black;
+}
+#box {
+    height: 200px;
+    width: 600px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 40px;
+}
