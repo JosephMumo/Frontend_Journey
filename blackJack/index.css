@@ -12,6 +12,7 @@ h1 {
     background-size: cover;
     color: white;
     font-weight: bold;
+    border-radius: 12px;
 }
 #message-el {
     font-style: italic;
