@@ -7,7 +7,7 @@ function loginUser(email, pasword, callback) {
     }, 5000);
 }
 
-const user = loginUser('joe@gmail.com', 123, user => {
+const user = loginUser('joe@gmail.com', 12345, user => {
     console.log(user)
 });
 console.log('End');
