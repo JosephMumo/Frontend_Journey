@@ -1,6 +1,6 @@
 async function myDisplayer() {
     let myPromise = new Promise(function(resolve, reject) {
-        setTimeout(function() {resolve("Learning Async and Await")}, 3000);
+        setTimeout(function() {resolve("Learning Async and Await")}, 5000);
     });
     console.log(await myPromise)
 }
