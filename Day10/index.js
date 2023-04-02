@@ -11,7 +11,7 @@ acEl.addEventListener('click', function() {
     ansEL.textContent = 0;
 });
 
-// function to assign negative or positive
+// function to assign negative or positive value
 posNeg.addEventListener('click', function() {
     ansEL.textContent = ans * -1;
 })
